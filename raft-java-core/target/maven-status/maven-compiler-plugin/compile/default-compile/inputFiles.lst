@@ -1,0 +1,16 @@
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/RaftClientServiceAsync.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/StateMachine.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/storage/Snapshot.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/impl/RaftConsensusServiceImpl.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/Peer.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/RaftConsensusService.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/RaftNode.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/RaftClientService.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/util/RaftFileUtils.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/storage/Segment.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/proto/RaftProto.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/util/ConfigurationUtils.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/storage/SegmentedLog.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/RaftConsensusServiceAsync.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/RaftOptions.java
+/Users/claireyu/Library/CloudStorage/OneDrive-NortheasternUniversity/Co-op/Java/raft/raft-java-core/src/main/java/com/github/raftimpl/raft/service/impl/RaftClientServiceImpl.java
